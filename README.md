@@ -2,4 +2,4 @@
 
 Pelin nimi:
 
-Bordal (portals not included)
+🅱️ordal (portals not included)
