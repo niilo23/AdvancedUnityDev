@@ -1,5 +1,4 @@
 # AdvancedUnityDev
 
-# Pelin nimi
-
-#Bordal (portals not included)
+Pelin nimi
+Bordal (portals not included)
